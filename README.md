@@ -34,6 +34,9 @@ It provides a hands-on implementation of **Data Engineering best practices** suc
 4. **Schedule** – Airflow DAG runs automatically (e.g., every 30 minutes).  
 5. **Monitor** – Airflow UI provides visibility into task success/failure.  
 
+## Airflow snippet:
+<img width="1798" height="924" alt="image" src="https://github.com/user-attachments/assets/b2b2b6be-69ae-4fdd-bf1c-f4b5b833aef7" />
+
 
 
 ## Conclusion:
